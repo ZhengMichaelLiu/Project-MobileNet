@@ -26,6 +26,7 @@ Note that the parameters are not fully tuned and optimized, you can try more par
 ## Under Construction
 
 This project is still under construction. For now, it is just a defined network in Jupyter Notebook. In the future, I will convert format to be more formal. And I will also try to apply the network to different applications, like they did in original paper:
+
     1. Fine Grained Recognition
     2. Large Scale Geolocalization
     3. Face Attributes
