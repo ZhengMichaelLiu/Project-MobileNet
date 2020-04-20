@@ -1,7 +1,7 @@
 # Project-MobileNet
 Implementation of MobileNet, trained and tested on CIFAR10
  
-Paper: MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications. [read](./MobileNets Efficient Convolutional Neural Networks for Mobile Vision Applications.pdf)
+Paper: MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications. [read](MobileNets Efficient Convolutional Neural Networks for Mobile Vision Applications.pdf)
 
 ## Architecture
 
